@@ -36,39 +36,47 @@
 	   font-size:22px;
 	   margin-left:-40px;
 	  }
-	  .text{
+     .text{
 	    border-left:2px solid orange;
 	   letter-spacing:5px;
 	   color:#999;
 	  }
-	  .github{
-	    float:right;
+     .github{
+	        float:right;
 		margin-right:500px;
 	   }
       a{
-	    color:#ddd;
+	        color:#ddd;
 		text-decoration:none;
 	   }
       into{
-	    color:#ddd;
+	        color:#ddd;
 		text-decoration:none;
 	   }
      .img{
-	    width:100%;
+	        width:100%;
 		height:400px;
 		display:inline-block;
 		margin-top:1px;
 		margin-left:0px;
 	   }
      .open{
-	    color:#1F6695;
+	       color:#1F6695;
 		text-decoration:none;
 	  }
 	 .contact{
 		width:200px;
 	   }
     .contact li{
-	    margin-top:10px;
-	    width:200px;
+	        margin-top:10px;
+	        width:200px;
 		color:#999;
 	   }        
+     .style{
+	        margin-top:100px;
+		background:black;
+		opacity:0.2;
+		position:fixed;
+		top:30%;
+		right:0px;
+	  }
