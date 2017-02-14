@@ -27,6 +27,16 @@
            虽然工作量不大，但是被 Jekyll 折磨的心累，看了看其他的技术，本来用 Github Pages 建博就有很多方法，比如说 hexo ，而且 hexo 是基于 nodejs 环境的，于是毅然决然的转到了 hexo 党。可是又遇到一系列问题 比如 我电脑无法运行GIT，命令行检验GIT总是报错，上网查了好多，可能是我电脑自身原因，最后决定不用框架，一切手写。
 		   </p>
 	 </div>
+	 <div class="section">
+	     <h1 class="my">难题</h1>
+	  
+		    <p class="yet">
+			  当我选择不用框架的时候 麻烦的事情来了 比如			
+			  </p>
+			<p class="text">
+                          上传代码很费劲，费时费力。但心里一直有个执念就是要做好，也坚持下来了，一步一步摸索从不会上传代码 到现在引用许多文件等等，我相信我会给他做的很好的 一点一点来，不积跬步，无以至千里，不积小流，无以成江海。             
+		   </p>
+	 </div>
 	 <div class="style">
 	    <ul class="contact">
 		  <li><span class="glyphicon glyphicon-phone"></span>Tel:13212812195</li>
