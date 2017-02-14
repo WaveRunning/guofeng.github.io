@@ -13,6 +13,9 @@
 		  <span class="title">阿锋疯了的博客</span>
 		  <span class="github"><a href="https://github.com/z8857439789">进入我的Github</a></span>
 	 </div>
+	  <div>
+	    <img src="imgs/timg.jpg">
+	 </div>
 	 <div class="section">
 	     <h1 class="my">我的第一篇文章</h1>
 	  
@@ -25,8 +28,6 @@
            虽然工作量不大，但是被 Jekyll 折磨的心累，看了看其他的技术，本来用 Github Pages 建博就有很多方法，比如说 hexo ，而且 hexo 是基于 nodejs 环境的，于是毅然决然的转到了 hexo 党。可是又遇到一系列问题 比如 我电脑无法运行GIT，命令行检验GIT总是报错，上网查了好多，可能是我电脑自身原因，最后决定不用框架，一切手写。
 		   </p>
 	 </div>
-	 <div>
-	    <img src="imgs/timg.jpg">
-	 </div>
+	
  </body>
 </html>
