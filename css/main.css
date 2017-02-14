@@ -1,17 +1,19 @@
-  body{
-	    background:#969696;
+   body{
+	    background:#ddd;
 		width:100%;
-		height:1200px;
-	   }
-   ul{
-           list-style:none;
-           }
+		height:2000px;
+	   } 
+  ul{
+      list-style:none;
+    }
+
     .top{
-	        width:100%;
+	    width:120%;
 		height:50px;
 		margin-top:-10px;
 		background:black;
 		line-height:50px;
+		margin-left:-20px;
 	  }
 	.title{
 	   color:#ddd;
@@ -23,7 +25,7 @@
     .section{
 	   margin:0 auto;
 	   width:900px;
-	   height:500px;
+	   height:250px;
        position:relative;
 	   top:100px;
 	   }
@@ -36,44 +38,40 @@
 	   font-size:22px;
 	   margin-left:-40px;
 	  }
-     .text{
+	  .text{
 	    border-left:2px solid orange;
 	   letter-spacing:5px;
-	   color:#999;
+	   color:#555;
 	  }
-     .github{
-	        float:right;
+	  .github{
+	    float:right;
 		margin-right:500px;
 	   }
-      a{
-	        color:#ddd;
+      .into{
+	    color:#ddd;
 		text-decoration:none;
 	   }
-      into{
-	        color:#ddd;
-		text-decoration:none;
-	   }
-     .img{
-	        width:100%;
+	  .img{
+	    width:100%;
 		height:400px;
 		display:inline-block;
 		margin-top:1px;
-		margin-left:0px;
+		margin-left:-10px;
 	   }
      .open{
-	       color:#1F6695;
+	    color:#78C4EC;
 		text-decoration:none;
 	  }
 	 .contact{
 		width:200px;
 	   }
     .contact li{
-	        margin-top:10px;
-	        width:200px;
-		color:#999;
-	   }        
-     .style{
-	        margin-top:100px;
+	    margin-top:10px;
+		width:200px;
+		color:#eee;
+	   }
+	 .style{
+	    margin-top:100px;
 		background:black;
 		opacity:0.2;
 		position:fixed;
